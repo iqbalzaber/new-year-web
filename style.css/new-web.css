@@ -1,0 +1,133 @@
+.header{
+    background-image: url(../images/banner/banner1.png);
+    width: 1600px;
+    height: 908px;
+    left: 100px;
+    top:0;
+}
+.header-title{
+    position: absolute;
+width: 525px;
+height: 228px;
+left: 845px;
+top: 216px;
+color: #151414;
+}
+.header-sub-title{
+    position: absolute;
+width: 494px;
+height: 78px;
+left: 876px;
+top: 468px;
+
+}
+.btn-primary{
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+    border: 0;
+    color: whitesmoke;
+    background-color: orangered;
+    
+
+}
+
+.my-failures{
+    display: flex;
+    justify-items: center;
+    margin-bottom: 30px;
+   
+
+}
+.failures{
+    position: absolute;
+width: 288px;
+height: 94px;
+left: 762px;
+top: 1100px;
+color: #151414;
+
+}
+.failures-resone{
+position: absolute;
+width: 416px;
+height: 104px;
+left: 762px;
+top: 1296px;
+color: #444343;
+}
+.resone-1{
+position  : absolute;
+width: 349px;
+height: 162px;
+left: 762px;
+top: 1416px;
+
+}
+ul{
+    list-style: none;
+    right: 1262px;
+}
+/* my plan styles*/
+.my-plan{
+color: #151414;
+text-align: center;
+}
+.skills-container{
+    display: flex;
+    gap: 30px;
+    border-right: 20px;
+  
+}
+   
+.skills-title{
+    font-weight: 700;
+font-size: 30px;
+}
+.possitive-title{
+   text-decoration: solid;
+    font-family: 'Work Sans';
+   font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+margin-top: 150px;
+margin-bottom: 10px;
+color: #FFFFFF;
+text-align: right bottom;
+padding-top: 85px;
+padding-left: 35px;
+
+}
+.btn{
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+    padding-left: 45px;
+    margin-left: 35px;
+    border: 0;
+    color: #F15B22;
+
+}
+.possitive{
+    background-image: url(../images/gradient3.png),url(../images/watch.png);
+    width: 1140px;
+height: 300px;
+}
+.contact{
+  display: flex;
+  justify-content: space-between;
+  background-color: #151414;
+  margin-top: 30px;
+  color: aliceblue;
+  width: 1147px;
+  size: 850px;
+    
+
+}
+
+
+
